@@ -1,0 +1,5 @@
+{
+  "name": "@repro/package/proxy-dir",
+  "private": true,
+  "module": "../dist/foo"
+}
